@@ -4,6 +4,7 @@
 # name of the character.
 
 define e = Character("test1")
+image sans = "Sans_render.webP"
 
 
 # The game starts here.
@@ -20,7 +21,7 @@ label start:
     # replace it by adding a file named "eileen happy.png" to the images
     # directory.
 
-    show eileen happy
+    show sans
 
     # These display lines of dialogue.
 
